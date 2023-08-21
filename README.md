@@ -9,3 +9,9 @@ After successfully training the respective models the program can be run by push
 After That it starts recording through the device input devices, predicts output, and send notification to caretaker which address and information is to be updated in the code. 
 # Project Demonstration
 The demonstration of projects can be viewed on https://youtu.be/Ez0-x_NDGdQ and https://youtu.be/FJvehz0jm38 .
+# About Us
+This is a group project by 
+Hariom Joshi - hariomjoshi331@gmail.com
+Priyanshi Patel - patelpriyanshi521@gmail.com
+Rinkal Patel- rinkalpatel2233@gmail.com
+Under the survilence and guidance of Mr. C.P. SIngar. (Professor, S.G.S.I.T.S., Indore)
